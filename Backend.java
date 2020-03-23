@@ -8,7 +8,7 @@ public class Backend extends Thread {
 
     Archivo escritor;
     String nickname = "";
-    int limit = 3;
+    int limit = 5;
     SocketAddress ip;
     DataInputStream dis;
     DataOutputStream dos;
